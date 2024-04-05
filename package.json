@@ -1,5 +1,5 @@
 {
-  "name": "gh-npm-test",
+  "name": "@mnicholstamu/gh-npm-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Michael Nichols",
+  "repository": {
+    "url": "git://github.com/mnicholstamu/gh-npm-test.git"
+  },
   "license": "ISC"
 }
