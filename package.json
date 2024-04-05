@@ -11,5 +11,8 @@
   "repository": {
     "url": "git://github.com/mnicholstamu/gh-npm-test.git"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@mnicholstamu/gh-npm-test": "^1.0.0"
+  }
 }
