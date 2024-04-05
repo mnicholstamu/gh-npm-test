@@ -1,6 +1,6 @@
 {
   "name": "@mnicholstamu/gh-npm-test",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
   "repository": {
     "url": "git://github.com/mnicholstamu/gh-npm-test.git"
   },
-  "license": "ISC",
-  "dependencies": {
-    "@mnicholstamu/gh-npm-test": "^1.0.0"
-  }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "license": "ISC"
 }
